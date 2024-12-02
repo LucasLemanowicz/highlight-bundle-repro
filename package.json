@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@highlight-run/react": "^8.0.2",
+    "highlight.run": "^9.7.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router": "^7.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
